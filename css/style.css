@@ -1416,7 +1416,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .fh5co-nav-toggle {
   position: absolute;
   right: 0px;
-  top: 55px;
+  top: 13px;
   z-index: 21;
   padding: 6px 0 0 0;
   display: block;
